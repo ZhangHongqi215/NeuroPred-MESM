@@ -1,1 +1,1 @@
-# NeuroPred-MESM
+# NeuroScale
