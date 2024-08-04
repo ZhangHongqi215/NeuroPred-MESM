@@ -21,7 +21,7 @@ cd NeuroScale
 
 # Install the required dependencies
 pip install -r requirements.txt
-
+```
 
 
 
