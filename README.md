@@ -7,7 +7,7 @@ NeuroScale integrates advanced machine learning techniques with biological insig
 
 - **High Performance**: Utilizes state-of-the-art algorithms for high accuracy and performance.
 - **Multi-Level Feature Extraction**: Incorporates GoogLeNet architectures for rich feature extraction.
-- **User-Friendly**: Provides an easy-to-use Python interface for predictions.
+- **Robust Performance**: Handles varying protein sequence lengths and similarity thresholds.
 - **Extensive Documentation**: Detailed documentation to help users get started quickly.
 
 ## Installation
