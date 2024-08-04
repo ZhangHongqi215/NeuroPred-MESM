@@ -7,7 +7,7 @@ NeuroScale integrates advanced machine learning techniques with biological insig
 
 - **High Performance**: Utilizes state-of-the-art algorithms for high accuracy and performance.
 - **Multi-Level Feature Extraction**: Incorporates GoogLeNet architectures for rich feature extraction.
-- **User-Friendly**: Provides an easy-to-use Python interface for both training and predictions.
+- **User-Friendly**: Provides an easy-to-use Python interface for predictions.
 - **Extensive Documentation**: Detailed documentation to help users get started quickly.
 
 ## Installation
@@ -47,7 +47,3 @@ Train the multi-channel neural network model using the extracted features. The n
 
 Evaluate the performance of the model using various metrics such as accuracy, precision, recall, F1 score, and MCC. The notebook provides code for generating ROC and PRC curves as well.
 
-
-### Step 5: Model Interpretability
-
-Use t-SNE and SHAP to visualize and interpret the model's predictions. The notebook includes examples of how to apply these techniques.
