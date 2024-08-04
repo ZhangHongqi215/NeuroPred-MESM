@@ -31,19 +31,19 @@ The main code for the NeuroScale model is contained in the `NeuroScale.ipynb` no
 
 ### Step 1: Load the Data
 
-Load the dataset containing protein sequences and their labels (NPs or not). The dataset should be formatted as described in the notebook.
+Load the dataset containing protein sequences and their labels (NPs or not). The dataset should be formatted as described in the `NeuroScale.ipynb`.
 
 ### Step 2: Feature Extraction
 
-Run the cells responsible for extracting features from the protein sequences using ESM2. The notebook includes detailed comments explaining each step.
+Run the cells responsible for extracting features from the protein sequences using ESM2. The `NeuroScale.ipynb` includes detailed comments explaining each step.
 
 
 ### Step 3: Model Training
 
-Train the multi-channel neural network model using the extracted features. The notebook demonstrates how to train the model and evaluate its performance.
+Train the multi-channel neural network model using the extracted features. The `NeuroScale.ipynb` demonstrates how to train the model and evaluate its performance.
 
 
 ### Step 4: Model Evaluation
 
-Evaluate the performance of the model using various metrics such as accuracy, precision, recall, F1 score, and MCC. The notebook provides code for generating ROC and PRC curves as well.
+Evaluate the performance of the model using various metrics such as accuracy, precision, recall, F1 score, and MCC. The `NeuroScale.ipynb` provides code for generating ROC and PRC curves as well.
 
